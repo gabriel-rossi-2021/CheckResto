@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CkeckResto</string>
+    <!-- Page d'accueil -->
+    <string name="home_page_title">Meilleures catégories</string>
+    <string name="home_page_plus_categorie_section">Plus de catégories</string>
+    <!-- Page de favoris -->
+    <string name="favoris_page_title">Mes favoris</string>
+    <!-- Page ajouter -->
+    <string name="add_resto_page_title">Ajouter un restaurant</string>
+    <string name="add_resto_page_upload_button">Charger une image</string>
+    <string name="add_resto_page_name_input">@string/item_nom_resto</string>
+    <string name="add_resto_page_details_input">@string/item_details_resto</string>
+    <string-array name="add_resto_page_grow_price_input">
+        <item>Fourchette de prix : 0 à 10 CHF</item>
+        <item>Fourchette de prix : 10 à 20 CHF</item>
+        <item>Fourchette de prix : 20 à 30 CHF</item>
+        <item>Fourchette de prix : 30 à 40 CHF</item>
+    </string-array>
+    <string name="add_resto_page_confirm_button">Confirmer</string>
+    <!-- Fenetre pop-up de details -->
+    <string name="popup_resto_name">Restaurant Name</string>
+    <string name="popup_resto_description_title">Description</string>
+    <string name="popup_resto_description_subtitle">Petite description</string>
+    <string name="popup_resto_grow_title">Fourchette de prix : </string>
+    <string name="popup_resto_grow_subtitle">0 à 10 CHF</string>
+    <!-- Restaurant customise -->
+    <string name="item_nom_resto">Nom catégorie</string>
+    <string name="item_details_resto">Catégorie</string>
+</resources>

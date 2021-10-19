@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956534844014",
+    "firebase_url": "https://ckeckresto-default-rtdb.firebaseio.com",
+    "project_id": "ckeckresto",
+    "storage_bucket": "ckeckresto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956534844014:android:5652d67500aa4e8bed547f",
+        "android_client_info": {
+          "package_name": "com.example.ckeckresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956534844014-rmt67rpga8c9d17b7lpgb93d89l2v2fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjr9M6X41wgpqdRLN3D5Mh4sHse1wwIeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956534844014-rmt67rpga8c9d17b7lpgb93d89l2v2fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

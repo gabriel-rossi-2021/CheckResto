@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2140625" />
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/drawable/ic_launcher_background.xml" value="0.371875" />
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/font/font.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/layout/activity_main.xml" value="0.27898550724637683" />
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/layout/fragment_collection.xml" value="0.31476449275362317" />
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/layout/item_horizontal_resto.xml" value="0.22" />
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/layout/item_vertical_resto.xml" value="0.4297782470960929" />
+        <entry key="..\:/Users/gross/AndroidStudioProjects/CkeckResto/app/src/main/res/layout/popup_resto_details.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
